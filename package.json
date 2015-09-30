@@ -1,0 +1,17 @@
+{
+  "name": "alienbot",
+  "version": "0.0.1",
+  "description": "Framework for creating reddit bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "reddit",
+    "snoocore",
+    "bluebird",
+    "bot"
+  ],
+  "author": "Michael Fine",
+  "license": "ISC"
+}
